@@ -8,5 +8,8 @@ public class CreateContacts
 	public void m1()
 	{
 		System.out.println("Demo m1");
+		
+		
+		System.out.println("Branches addition");
 	}
 }
