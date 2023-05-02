@@ -11,5 +11,7 @@ public class CreateContacts
 		
 		
 		System.out.println("Branches addition");
+		
+		System.out.println("Raise PR");
 	}
 }
